@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Divyansh Sharma 👋
+🎓 B.Tech Student – BIOENGINEERING
+🏫 VIT Bhopal University.
 
-<!--
-**divyansh1906/divyansh1906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I am passionate about learning new technologies and improving my technical skills.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals
+Improve coding skills
+Build projects
+Gain practical experience
+📫 Contact
+Email: divyansh.25boe10132@vitbhopal.ac.in
+🔗 This profile showcases my learning journey.
