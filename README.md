@@ -6,11 +6,11 @@
 
 ## 🎯 Goals
 
-Improve coding skills
-Build projects
-Gain practical experience
+-Improve coding skills
+-Build projects
+-Gain practical experience
 
 ## 📫 Contact
-Email: divyansh.25boe10132@vitbhopal.ac.in
+-Email: divyansh.25boe10132@vitbhopal.ac.in
 
 🔗 This profile showcases my learning journey.
